@@ -1,0 +1,1 @@
+##javascript Es5 基礎語法
